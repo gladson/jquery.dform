@@ -69,6 +69,7 @@ __Demo:__
 
 __Learn more:__
 
+* Exemplo de envio de resultados com json: [on jsfiddle.com](http://jsfiddle.net/sxGtM/4390/)
 * Visit the above example [on jsfiddle.com](http://jsfiddle.net/Daff/Zt4Rz/)
 * Visit the [jQuery.dForm Group](http://groups.google.com/group/jquery-dform)
 * Watch and fork the project on [GitHub](http://github.com/daffl/jquery.dform/)
